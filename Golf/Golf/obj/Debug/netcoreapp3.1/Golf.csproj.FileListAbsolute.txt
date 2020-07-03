@@ -1,0 +1,13 @@
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.exe
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.deps.json
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.json
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.runtimeconfig.dev.json
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.dll
+D:\C Sharp Projects\Golf\Golf\bin\Debug\netcoreapp3.1\Golf.pdb
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.csprojAssemblyReference.cache
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfoInputs.cache
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.AssemblyInfo.cs
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.csproj.CoreCompileInputs.cache
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.dll
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.pdb
+D:\C Sharp Projects\Golf\Golf\obj\Debug\netcoreapp3.1\Golf.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+D:\C Sharp Projects\Uppgifter\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

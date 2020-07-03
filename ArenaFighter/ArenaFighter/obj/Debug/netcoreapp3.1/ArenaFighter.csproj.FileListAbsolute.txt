@@ -1,0 +1,13 @@
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.exe
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.deps.json
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.json
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.runtimeconfig.dev.json
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.dll
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\bin\Debug\netcoreapp3.1\ArenaFighter.pdb
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.csprojAssemblyReference.cache
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfoInputs.cache
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.AssemblyInfo.cs
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.csproj.CoreCompileInputs.cache
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.dll
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.pdb
+D:\C Sharp Projects\ArenaFighter\ArenaFighter\obj\Debug\netcoreapp3.1\ArenaFighter.genruntimeconfig.cache
